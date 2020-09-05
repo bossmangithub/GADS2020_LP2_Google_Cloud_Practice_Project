@@ -8,7 +8,7 @@ Completion of 10-15 selected hands-on labs on Qwiklabs and submitting proof of s
 
 ### Course: Essential Google Cloud Infrastructure: Foundation
 #### Module: Virtual Networks
-##### 1. VPC Networking
+1. #####  VPC Networking
 ![](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/blob/master/task_1/VPC%20Networking.png)
 
 ##### 2. Implementing Private Google Access and Cloud NAT
