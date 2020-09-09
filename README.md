@@ -9,8 +9,11 @@ Click [here](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Pra
 ## Challenge 2
 “Translation” of 2-3 selected labs from Console instructions to 100% command line instructions.
 ### Lab 1: Google Cloud Fundamentals: Getting Started with Compute Engine
-Click [here](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/wiki/Lab-1:-Google-Cloud-Fundamentals:-Getting-Started-with-Compute-Engine) to view submission
+Click [here](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/blob/master/task_2/lab_1.md) to view submission
+[](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/wiki/Lab-1:-Google-Cloud-Fundamentals:-Getting-Started-with-Compute-Engine)
 ### Lab 2: Creating Virtual Machines
-Click [here](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/wiki/Lab-2:-Creating-Virtual-Machines) to view submission
+Click [here](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/blob/master/task_2/lab_2.md) to view submission
+[](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/wiki/Lab-2:-Creating-Virtual-Machines)
 ### Lab 3: VPC Networking
-Click [here](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/wiki/Lab-3:-VPC-Networking) to view submission
+Click [here](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/blob/master/task_2/lab_3.md)  to view submission
+(https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/wiki/Lab-3:-VPC-Networking)
