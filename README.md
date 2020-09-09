@@ -16,4 +16,4 @@ Click [here](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Pra
 [](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/wiki/Lab-2:-Creating-Virtual-Machines)
 ### Lab 3: VPC Networking
 Click [here](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/blob/master/task_2/lab_3.md)  to view submission
-(https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/wiki/Lab-3:-VPC-Networking)
+[](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/wiki/Lab-3:-VPC-Networking)
