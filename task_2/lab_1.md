@@ -26,4 +26,6 @@ gcloud compute instances create "my-vm-2" \
 --subnet "default"
 ```
 ### Task 4: Connect between VM instances
-'ping my-vm-1'
+```
+ping my-vm-1
+```
