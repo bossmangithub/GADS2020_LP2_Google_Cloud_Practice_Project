@@ -6,7 +6,7 @@ During learning phase 2, participants in the Cloud track of GADS 2020 program ar
 Completion of 10-15 selected hands-on labs on Qwiklabs and submitting proof of such per screenshot based on the email received.
 
 Click [here](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/blob/master/task_1/challenge_1.md) to view submission.
-[](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/wiki/challenge_1) to view submission
+[](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/wiki/challenge_1)
 ## Challenge 2
 “Translation” of 2-3 selected labs from Console instructions to 100% command line instructions.
 ### Lab 1: Google Cloud Fundamentals: Getting Started with Compute Engine
