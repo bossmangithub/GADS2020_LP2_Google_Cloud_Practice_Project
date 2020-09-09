@@ -49,7 +49,6 @@ Completion of 10-15 selected hands-on labs on Qwiklabs and submitting proof of s
 ![](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/blob/master/task_1/Resource%20Monitoring.png)
 
 
-#### Module: Resource Monitoring
 10. #####  Error Reporting and Debugging
 ![](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/blob/master/task_1/Error%20Reporting%20and%20Debugging.png)
 
