@@ -67,3 +67,5 @@ Completion of 10-15 selected hands-on labs on Qwiklabs and submitting proof of s
 13. ##### Automating the Deployment of Infrastructure Using Deployment Manager
 ![](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/blob/master/task_1/Automating%20the%20Deployment%20of%20Infrastructure%20using%20Deployment%20Manager.png)
 
+13. ##### Automating the Deployment of Infrastructure Using Terraform
+![](https://github.com/olubunmialegbeleye/GADS2020_LP2_Google_Cloud_Practice_Project/blob/master/task_1/Automating%20the%20Deployment%20of%20Infrastructure%20using%20Terraform.png)
